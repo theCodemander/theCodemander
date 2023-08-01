@@ -8,7 +8,21 @@
           height: 300px;
           background-color: transparent;
           color: black;
+        
+        h1{
+          color: #00EF78;
+          animation: myanimation 2s infinite;
         }
+        
+        @keyframes myanimation {
+          from {
+            color: #00EF78;
+          }
+          to {
+            color: #005229;
+          }
+        }
+        
       </style>
 
       <div class="container" align="center">
