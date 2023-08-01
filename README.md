@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="main.svg" style="width: 50%;" alt="Codemander"><br>
+  <img src="main.svg" style="width: 80%;" alt="Codemander"><br>
   <img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.webp" width="480" height="270"/><br>
 </div>
 <hr>
