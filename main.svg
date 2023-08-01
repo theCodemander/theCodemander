@@ -6,7 +6,7 @@
           display: center;
           width: 100%;
           height: 300px;
-          color:#005229;  
+          color:#00FE7E;  
         }
         
          h1 {
@@ -16,16 +16,16 @@
 
         @keyframes mymove {
                 from {
-                    color: #00E070;
+                    color: #00FE7E;
                 }
                 to {
                     color: #005229;
                 }
-                from{
+                from {
                     color: #005229;
                 }
-                to{
-                    color: #00E070;
+                to {
+                    color: #00FE7E;
                 }
         
             }
