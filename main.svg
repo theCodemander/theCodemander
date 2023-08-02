@@ -15,19 +15,15 @@
             }
 
         @keyframes mymove {
-                from {
+                0%{
                     color: #00FE7E;
                 }
-                to {
+                50% {
                     color: #005229;
                 }
-                from {
-                    color: #005229;
-                }
-                to {
+                100%{
                     color: #00FE7E;
                 }
-        
             }
         
       </style>
