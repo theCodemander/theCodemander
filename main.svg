@@ -11,7 +11,7 @@
         
          h1 {
                 color: #00E070;
-                animation: mymove 30s infinite;
+                animation: mymove 10s infinite;
             }
 
         @keyframes mymove {
