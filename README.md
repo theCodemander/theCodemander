@@ -6,7 +6,9 @@
 
 <div id=toolbox align="center">
 <h3>Contact</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/docs/assets/css/discord-logo.svg" alt="Discord Logo" width="50" height="50"> -> .Heckerman
+Discord: .hekermen
+<br>
+Email: es.santigarcia@gmail.com
 <h3>🧰 Toolbox:</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50" height="50"> 
